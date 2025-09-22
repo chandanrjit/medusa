@@ -1,5 +1,16 @@
 # @medusajs/workflow-engine-redis
 
+## 2.10.4
+
+### Patch Changes
+
+- [#13557](https://github.com/medusajs/medusa/pull/13557) [`cb716856b653c31178a5977b17ec77eed4c9c241`](https://github.com/medusajs/medusa/commit/cb716856b653c31178a5977b17ec77eed4c9c241) Thanks [@adrien2p](https://github.com/adrien2p)! - fix(engine): Always create cleaner job
+
+- [#13561](https://github.com/medusajs/medusa/pull/13561) [`68a643bb3aafc6bb8f7d15ebc49870dd7f53976e`](https://github.com/medusajs/medusa/commit/68a643bb3aafc6bb8f7d15ebc49870dd7f53976e) Thanks [@carlos-r-l-rodrigues](https://github.com/carlos-r-l-rodrigues)! - fix(workflow-engine-redis): cleaner using worker connection
+
+- Updated dependencies [[`8ece06d8ed6a197ebb370918c49a3ec5c21dd186`](https://github.com/medusajs/medusa/commit/8ece06d8ed6a197ebb370918c49a3ec5c21dd186)]:
+  - @medusajs/framework@2.10.4
+
 ## 2.10.3
 
 ### Patch Changes
